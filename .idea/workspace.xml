@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97428a42-a169-414c-9eba-8b325549dc93" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/POO_Java/ClassesModelos/CarrinhoDeCompras.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_Java/ClassesModelos/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_Java/ClassesModelos/Fornecedor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_Java/ClassesModelos/ItensDeCarrinho.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_Java/ClassesModelos/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_Java/Controladores/ControladorCliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_Java/Controladores/ControladorFornecedor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_Java/Controladores/ControladorProduto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_Java/Controladores/Fachada.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_Java/Controladores/IControladorCliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_Java/Controladores/IControladorFornecedor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_Java/Controladores/IControladorProduto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_Java/Excecoes/CarrinhoException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_Java/Excecoes/ClienteException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_Java/Excecoes/FornecedorException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_Java/Excecoes/ProdutosException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_Java/Repositorios/IRepositorioCliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_Java/Repositorios/IRepositorioFornecedor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_Java/Repositorios/IRepositorioProduto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_Java/Repositorios/RepositorioCliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_Java/Repositorios/RepositorioFornecedor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_Java/Repositorios/RepositorioProduto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_Java/UI/Clienteui.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_Java/UI/Principal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_Java/UI/UICliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_Java/UI/UIFornecedor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_Java/UI/UIProduto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO_Java/UI/uiAdm.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aVAjmXL3nrBuzuFhglsSgvm2s3" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java\workspace\POO_Java\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UI.Principal" />
+      <module name="POO_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Principal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97428a42-a169-414c-9eba-8b325549dc93" name="Default Changelist" comment="" />
+      <created>1586810524892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586810524892</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586812434041">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586812434041" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1586812601576">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586812601576" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1586812601576">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586812601576" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1586812601576">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586812601576" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1586812601576">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586812601576" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1586839680141">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586839680141" />
+  </component>
+</project>
